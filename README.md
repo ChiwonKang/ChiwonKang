@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: snt4best@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/ChiwonKang
+- 이메일 : snt4best@gmail.com
+- 블로그 : https://blog.naver.com/iwannabegood
+- 깃헙 : https://github.com/ChiwonKang
 
 </br>
 
