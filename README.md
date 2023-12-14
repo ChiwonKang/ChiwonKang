@@ -16,12 +16,12 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+### 1. [포트폴리오](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git)
+>나의 프론트엔드 포트폴리오 (프로젝트)  
+>개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>Java 8 / Spring Boot / Python / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git) 참고
